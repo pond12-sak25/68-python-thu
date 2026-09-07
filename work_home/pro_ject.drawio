@@ -1,0 +1,19 @@
+<mxfile host="65bd71144e">
+    <diagram id="6sF-wMb_qzNusC6XC0vE" name="Page-1">
+        <mxGraphModel dx="702" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="5" value="start" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=55;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+                    <mxGeometry x="343" y="70" width="165" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="start" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=55;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+                    <mxGeometry x="343" y="660" width="165" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="input" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+                    <mxGeometry x="358" y="170" width="135" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

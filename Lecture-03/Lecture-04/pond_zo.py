@@ -1,6 +1,6 @@
-print('MPH\tKPH')
+print('Number\tSquare')
 print('-----------------')
 
-for mph in range(50,140,10):
-    kph = mph * 0.6214
-    print ('{:.1f}\t{:.1f}'.format(mph,kph))
+for Number in range(1,11,1):
+    Square = Number **2 
+    print (f"{Number}\t{Square}")
